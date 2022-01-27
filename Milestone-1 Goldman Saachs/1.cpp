@@ -1,5 +1,4 @@
 //Given an array of strings, return all groups of strings that are anagrams.
-//Name: Pinaki Das
 //https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#
 
 
